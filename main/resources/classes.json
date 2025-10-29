@@ -1,0 +1,52 @@
+{
+  "classes": [
+    {
+      "name": "Knight",
+      "activePassive": "active"
+    },
+    {
+      "name": "Seer",
+      "activePassive": "passive"
+    },
+    {
+      "name": "Mage",
+      "activePassive": "active"
+    },
+    {
+      "name": "Page",
+      "activePassive": "passive"
+    },
+    {
+      "name": "Rogue",
+      "activePassive": "passive"
+    },
+    {
+      "name": "Thief",
+      "activePassive": "active"
+    },
+    {
+      "name": "Heir",
+      "activePassive": "passive"
+    },
+    {
+      "name": "Witch",
+      "activePassive": "active"
+    },
+    {
+      "name": "Prince",
+      "activePassive": "active"
+    },
+    {
+      "name": "Bard",
+      "activePassive": "passive"
+    },
+    {
+      "name": "Maid",
+      "activePassive": "active"
+    },
+    {
+      "name": "Sylph",
+      "activePassive": "passive"
+    }
+  ]
+}
