@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="modelss/|generationstuffs/|sservice/|repo/|controllers/" kind="src" path="backend/java"/>
+	<classpathentry kind="src" path="backend/java/controllers"/>
+	<classpathentry kind="src" path="backend/java/generationstuffs"/>
+	<classpathentry kind="src" path="backend/java/modelss"/>
+	<classpathentry kind="src" path="backend/java/repo"/>
+	<classpathentry kind="src" path="backend/java/sservice"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
