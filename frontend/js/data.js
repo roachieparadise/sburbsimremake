@@ -25,15 +25,15 @@ const GameData = {
         { name: "Time", color: "#cd0000" },
         { name: "Space",  color: "#929292" },
         { name: "Light",  color: "#f7b52c" },
-        { name: "Void", color: "#000056" },
+        { name: "Void", color: "#0000bbff" },
         { name: "Heart", color: "#99004dff" },
         { name: "Mind",  color: "#007025ff" },
         { name: "Breath", color: "#00c8ff" },
         { name: "Blood", color: "#a10000" },
         { name: "Doom", color: "#345900" },
         { name: "Life", color: "#24d800ff" },
-        { name: "Rage",color: "#37006aff" },
-        { name: "Hope", color: "#ffe600ff" }
+        { name: "Rage",color: "#8400ffff" },
+        { name: "Hope", color: "#bda000ff" }
     ],
     
     classes: [
