@@ -25,7 +25,7 @@ const GameData = {
         { name: "Time", color: "#cd0000" },
         { name: "Space",  color: "#929292" },
         { name: "Light",  color: "#f7b52c" },
-        { name: "Void", color: "#0000bbff" },
+        { name: "Void", color: "#3535ffff" },
         { name: "Heart", color: "#99004dff" },
         { name: "Mind",  color: "#007025ff" },
         { name: "Breath", color: "#00c8ff" },
