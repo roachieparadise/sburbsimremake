@@ -1,0 +1,46 @@
+  body {
+    background-color:#535353;
+    font-family:"Courier New", monospace;
+    text-align:center;
+    margin:auto;
+  }
+  
+  .wrapper {
+    background-color:#C6C6C6;
+    padding:10px;
+    margin:auto;
+    width:1000px;
+    height:900px;
+  }
+  
+  .content {
+    background-color:#EEEEEE;
+    margin:auto;
+    width:800px;
+    height:auto;
+    font-weight: bold;
+    font-size:15px;
+  }
+  
+  .pesterlog {
+    border: dashed 1px grey;
+    padding:10px;
+    width:600px;
+    margin:auto;
+    padding-top:10px;
+    padding-bottom:10px;
+  }
+  
+  .header {
+    font-size:30px;
+    font-weight: bold;
+  }
+  
+  .next {
+    font-size:30px;
+    font-weight: bold;
+    text-align:left;
+    margin-left:50px;
+    content:"> ";
+  }
+  

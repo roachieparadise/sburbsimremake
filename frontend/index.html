@@ -5,80 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sburb sim remake demo</title>
     <link rel="icon" type="image/x-icon" href="favicon.png">
-<link rel="stylesheet" href="../homestuck.css" />
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-<style>
-  body {
-    background-color:#535353;
-    font-family:"Courier New", monospace;
-    text-align:center;
-    margin:auto;
-  }
-  
-  .wrapper {
-    background-color:#C6C6C6;
-    padding:10px;
-    margin:auto;
-    width:1000px;
-    height:900px;
-  }
-  
-  .content {
-    background-color:#EEEEEE;
-    margin:auto;
-    width:800px;
-    height:auto;
-    font-weight: bold;
-    font-size:15px;
-  }
-  
-  .pesterlog {
-    border: dashed 1px grey;
-    padding:10px;
-    width:600px;
-    margin:auto;
-    padding-top:10px;
-    padding-bottom:10px;
-  }
-  
-  .header {
-    font-size:30px;
-    font-weight: bold;
-  }
-  
-  .next {
-    font-size:30px;
-    font-weight: bold;
-    text-align:left;
-    margin-left:50px;
-    content:"> ";
-  }
-  
-</style>
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+    <script src="./js/test.js" defer></script>
+    <link href="css/homestuck.css" rel="stylesheet" type="text/css" media="all">
+    <script src="./js/gen/playergen.js"></script>
     
   </head>
   <body>
-
-<button id="start-button" onclick="game.startGame()">
+<div style="display:inline">
+        <button>
             BEGIN
         </button>
-
-<div id="player-roster" style="display:none;">
-            <h3>Session Players</h3>
-            <div id="player-list">
-            </div>
-        </div>
-
+        <button>
+          CREDITS
+        </button>
+</div>
 <div class="wrapper">
   <div class="content">
     <div class="header">aaa</div>
     <div id="scene"></div>
     <div class="pesterlog">
-      <div id="story-display">
-            <p id="story-text">aaa</p>
+      <div>
+        
+        <p id="player"></p>
         </div>
     </div>
-    <div class="next" id="choices">aaa</div>
+    <div class="next">aaa</div>
   </div>
 </div>
 
